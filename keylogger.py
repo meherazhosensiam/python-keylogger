@@ -1,7 +1,6 @@
 import logging
 import sys
 from pynput import keyboard
-from pynput import mouse
 # 1. Use the standard logging module to handle file I/O safely.
 # This automatically appends to the file ('a' mode) instead of overwriting ('w').
 logging.basicConfig(
